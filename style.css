@@ -1,0 +1,115 @@
+body {
+	background-image: url("https://phonoteka.org/uploads/posts/2021-04/1618528296_49-phonoteka_org-p-neiroset-fon-55.jpg");
+  background-size: cover; 
+  background-position: center; 
+}
+
+.button-green, .button-yellow, .button-red {
+	background-color: #44c52d;
+	border: none;
+	color: black;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 23px;
+	width: 850px;
+	height: 100px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 10px;
+}
+
+.button-yellow {
+	  background-color: #ffc518;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 23px;
+    width: 850px;
+    height: 100px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.button-red {
+	 background-color: #c71f1f;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 23px;
+    width: 850px;
+    height: 100px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.wordcorr {
+	color: black;
+  text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+.wordcorr-blue {
+  background-color:  #094077;
+  text-align: center;
+	color:  white;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.wordcorr-blue-lead {
+  background-color:  #094077;
+  text-align: center;
+	color:  white;
+	font-size: 28px;
+  width: 570px;
+	font-weight: bold;
+}
+
+
+.button-orange {
+	 background-color: orange;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 23px;
+    width: 400px;
+    height: 100px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.return-button {
+			position: relative;
+      cursor: pointer;
+		}
+
+
+.button-red:hover {
+    background-color:  #ff0000;
+}
+
+.button-yellow:hover {
+    background-color:  #ffff00;;
+}
+
+.button-green:hover {
+    background-color: #00ff00;
+}
+
+.button-orange:hover {
+    background-color:  #FF8C00;
+}
